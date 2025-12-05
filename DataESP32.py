@@ -1,3 +1,4 @@
+# This script stores DHT data received by the MQTT server in a JSON file
 import json
 import os
 import time
