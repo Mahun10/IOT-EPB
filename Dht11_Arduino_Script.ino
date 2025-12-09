@@ -3,8 +3,8 @@
 #include "DHT.h"
 
 
-const char* ssid = "Galaxy A20eDA24";
-const char* password = "tzwz1727";
+const char* ssid = "Nom Wifi";
+const char* password = "mdp ";
 const char* mqtt_server = "10.46.37.145" //"10.112.246.145";//"10.38.211.145"; //"10.46.37.145";
 const int mqtt_port = 1883;
 const char* topic_temp = "esp32/dht11/temp";
